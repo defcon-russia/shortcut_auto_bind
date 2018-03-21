@@ -25,3 +25,7 @@ Path from where explorer.exe will look shortcuts
 * %AppData%\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts
 * %AppData%\Microsoft\Windows\Start Menu
 * %UserProfile%\Desktop
+
+PoC:
+
+Copy "Internet Explorer.lnk" to the Desktop, restart PC (or just restart explore.exe), press DEL.
