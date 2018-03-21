@@ -29,5 +29,3 @@ Path from where explorer.exe will look shortcuts
 PoC:
 
 Copy "Internet Explorer.lnk" to the Desktop, restart PC (or just restart explore.exe), press DEL.
-
-by Alexey Sintsov
