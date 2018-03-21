@@ -11,7 +11,7 @@ Of course, you can  add raw hot-key code, so it can be not only "CTRL+ALT+..." b
 This is feature, of course, not a bug, but it can be abused by malware guys... so good thing to know.
 
 LNK:
-![Edit lnk](https://defcon-russia.ru/images/lnk_2e.png.png)
+![Edit lnk](https://defcon-russia.ru/images/lnk_2e.png)
 
 URL:
 ![Shortcut](https://defcon-russia.ru/images/url_46.png)
